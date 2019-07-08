@@ -3,10 +3,11 @@ title: "Automatic vs Manual Transmission for MPG"
 author: "Avinash Dodda - July 2019"
 output:
   
-  pdf_document:
-        number_sections: true
   html_document: 
         number_sections: true
+  pdf_document:
+        number_sections: true
+
 ---
 
 ```{r setup, include=FALSE}
