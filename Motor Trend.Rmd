@@ -1,8 +1,10 @@
 ---
 title: "Automatic vs Manual Transmission for MPG"
 author: "Avinash Dodda - July 2019"
-output:
+output: 
   
+  rmarkdown:
+    github_document
   html_document: 
         number_sections: true
   pdf_document:
